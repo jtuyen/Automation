@@ -1,0 +1,19 @@
+{
+  "name": "canada-mpp-scraper",
+  "version": "1.0.0",
+  "description": "This is a script to scrape and output Liberals MPP twitter data and full name to a csv file.  I'll be adding other political parties data soon.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtuyen/canada-mpp-scraper.git"
+  },
+  "author": "John Tuyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jtuyen/canada-mpp-scraper/issues"
+  },
+  "homepage": "https://github.com/jtuyen/canada-mpp-scraper#readme"
+}
